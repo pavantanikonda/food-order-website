@@ -20,3 +20,12 @@ A responsive food ordering website interface designed to provide users with a se
 
 ## 🔗 Live Demo
 👉 https://orderproject.ccbp.tech/
+
+## 📷 Screenshots
+![Home Page](home.png.png)
+![Why Choose Us](wcu.png.png)
+![Menu Page](menu.png.png)
+
+## 👨‍💻 Author
+*Tanikonda Pavan Kumar*  
+B.Tech CSE | Aspiring Software Engineer
